@@ -25,7 +25,7 @@ header {
     flex-wrap: wrap;
     background-color: var(--dark-purple);
     color: var(--dark-purple);
-    background-image: url("corgi-tree.jpg");
+    background-image: url(".assets/images/corgi-tree.jpg");
     background-size: cover;
     background-position: 70%;/*helps sync sections of the same image that are located in different divs*/
     background-attachment: fixed;
@@ -70,7 +70,7 @@ header nav ul li a:hover {
 
 .hero {
     color: var(--dark-purple);
-    background-image: url("corgi-tree.jpg");
+    background-image: url(".assets/images/corgi-tree.jpg");
     background-size: cover;
     background-position: 70%;
     background-attachment: fixed;
