@@ -157,19 +157,19 @@ header nav ul li a:hover {
     width: 100%
 }
 
-.contact-info {
+.contact-info ul {
+    list-style: none;
     display: flex;
-    justify-content: center;
+    justify-content: flex-start;
 }
-
-.contact-info a {
+.contact-info ul li a {
     margin: auto 4vw;
     font-weight: bold;
 }
 
-.contact-info a:hover {
-    background: var(--dark-purple);
-    color: white;
+.contact-info ul li:hover {
+    background: var(--light-purple);
+    border-radius: 15px;
 }
 
 footer {
@@ -233,7 +233,7 @@ footer {
         font-size: 4vw;
     }
 
-    .contact-info a {
+    .contact-info ul li a {
         font-size: 18px;
         
     }
@@ -270,7 +270,7 @@ footer {
         bottom: 0px;
     }
 
-    .contact-info a {
+    .contact-info ul li a {
         font-size: 16px;
         
     }
