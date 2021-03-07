@@ -167,6 +167,11 @@ header nav ul li a:hover {
     font-weight: bold;
 }
 
+.contact-info a:hover {
+    background: var(--dark-purple);
+    color: white;
+}
+
 footer {
     display: flex;
     margin: 70px 0 0 0;
