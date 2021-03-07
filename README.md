@@ -8,13 +8,13 @@ Because I don't have many projects to showcase at the moment, most of the links 
 ## Screeshots
 
 
-![Hover function](assets/screenshots/hover-1.jpg)
+![Hover function](screenshots/hover-1.jpg)
 <br />
-![Hover function 2](assets/screenshots/hover-2.jpg)
+![Hover function 2](screenshots/hover-2.jpg)
 <br />
-![Placeholder links](assets/screenshots/placeholder-link.jpg)
+![Placeholder links](screenshots/placeholder-link.jpg)
 <br />
-![Adapts to screen size](assets/screenshots/query.jpg)
+![Adapts to screen size](screenshots/query.jpg)
 
 
 ### Resources used
