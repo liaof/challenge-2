@@ -5,15 +5,18 @@ This week I've created a portfolio type webpage as a place to host my future pro
 Because I don't have many projects to showcase at the moment, most of the links on the webpage are placeholders to random google searches or youtube car reviews.
 
 
-## Screeshots
+## Screenshots
 
-
+Hovering over the nav bar:<br/>
 ![Hover function](screenshots/hover-1.jpg)
 <br />
+Hovering over page elements:<br/>
 ![Hover function 2](screenshots/hover-2.jpg)
 <br />
+Placeholder links: <br/>
 ![Placeholder links](screenshots/placeholder-link.jpg)
 <br />
+Resizability: <br/>
 ![Adapts to screen size](screenshots/query.jpg)
 
 
