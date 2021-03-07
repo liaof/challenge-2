@@ -31,7 +31,7 @@ header {
     position: sticky;
     position: -webkit-sticky;
     top: 0;
-    z-index: 99;
+    z-index: 999;
 }
 
 header h1 {
@@ -134,6 +134,7 @@ header nav ul li a:hover {
     background-position : 100%;
     background-attachment: fixed;
     display: flex;
+    z-index: 1;
 }
 
 .portfolio-item:hover {
