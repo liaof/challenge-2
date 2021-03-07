@@ -30,10 +30,9 @@ header {
     background-attachment: fixed;
 }
 
-header h1{
+header h1 {
     font-weight: bolder;
     font-size: 36px;
-    color: #fce138;
 }
 
 header a {
@@ -128,27 +127,42 @@ header nav ul li a:hover {
     background-position : 100%;
     background-attachment: fixed;
     display: flex;
-    
+}
+
+.portfolio-item:hover {
+    opacity: 0.5;
 }
 
 .portfolio-item a {
     text-decoration: none;
     position: absolute;
     bottom: 50px;
-    left: 14px;
     font-weight: bolder;
     color: var(--orange);
     font-size: 36px;
     text-shadow: 0 0 15px rgba(0, 0, 0, 1);
+    background-color: var(--light-purple)
     
 }
 
 .portfolio-item img {
     width: 100%
-    
-    
+}
 
-    
+.contact-info {
+    display: flex;
+    justify-content: center;
+}
+
+.contact-info a {
+    margin: auto 4vw;
+    font-weight: bold;
+}
+
+footer {
+    display: flex;
+    margin: 70px 0 0 0;
+    justify-content: space-between;
 }
 
 
