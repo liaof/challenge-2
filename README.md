@@ -14,6 +14,7 @@ Because I don't have many projects to showcase at the moment, most of the links 
 <br />
 ![Placeholder links](assets/screenshots/placeholder-link.jpg)
 <br />
+![Adapts to screen size](assets/screenshots/query.jpg)
 
 
 ### Resources used
