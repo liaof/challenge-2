@@ -111,7 +111,6 @@ header nav ul li a:hover {
 .portfolio {
     display: flex;
     width: 70%;
-    flex-direction : row;
     justify-content: space-around;
     flex-wrap: wrap;
 }
@@ -153,6 +152,24 @@ header nav ul li a:hover {
     
 }
 
+.portfolio-frame {
+    position: relative;
+    flex: 1 30%;
+}
+
+.portfolio-label {
+    text-decoration: none;
+    position: absolute;
+    top: 0;
+    font-weight: bolder;
+    color: var(--orange);
+    font-size: 36px;
+    text-shadow: 0 0 15px rgba(0, 0, 0, 1);
+    background-color: var(--light-purple);
+    z-index: 2;
+    padding: 5px 5px;
+    border-radius: 15px;
+}
 .portfolio-item img {
     width: 100%
 }
