@@ -199,7 +199,9 @@ footer {
 }
 
 @media screen and (max-width: 768px) {
-
+    body {
+        background-color: black;
+    }
     header {
         justify-content: center;
     }
@@ -227,19 +229,31 @@ footer {
         margin: 0 0 20px 0;
         width: 25%;
         border-right: none;
-        border-bottom: 10px solid var(--light-purple);
-        color: var(--dark-purple);
+        color: var(--light-purple);
         font-weight: bolder;
         text-align: center;
     }
 
     .content {
-        width: 100%;
+        width: 90%;
         font-size: 18px;
+        color: white;
+        line-height: 2;
+        text-align: center;
     }
 
     .portfolio {
         width: 100%;
+    }
+
+    .portfolio-frame {
+        flex: 45%;
+    }
+
+    .portfolio-label {
+        font-size: 2.6vw;
+        font-weight: normal;
+        color: black;
     }
 
     header {
@@ -274,26 +288,24 @@ footer {
         width: 65%;
     }
     
-    .content {
+    .content, .portfolio {
         width: 125%;
     }
 
-    .portfolio {
-        width : 130%;
+    .portfolio-label {
+        font-size: 12px;
     }
 
-    .portfolio a {
-        font-size: 4.5vw;
-        bottom: 0px;
+    .portfolio-item img {
+        width: 100%;
     }
 
-    .contact-info ul li a {
+    .contact-info ul li a, footer h2, {
         font-size: 16px;
-        
     }
 
-    footer h2, footer a{
-        font-size: 15px;
+     footer a{
+        font-size: 10px;
     }
 }
 
