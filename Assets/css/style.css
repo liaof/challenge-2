@@ -24,7 +24,6 @@ header {
     align-content: center;
     flex-wrap: wrap;
     background-color: var(--dark-purple);
-    color: var(--dark-purple);
     background-image: url("corgi-tree.jpg");
     background-size: cover;
     background-position: 70%;/*helps sync sections of the same image that are located in different divs*/
