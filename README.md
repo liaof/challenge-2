@@ -9,12 +9,18 @@ Because I don't have many projects to showcase at the moment, most of the links 
 
 
 ![Hover function](assets/screenshots/hover-1.jpg)
+<br />
 ![Hover function 2](assets/screenshots/hover-2.jpg)
+<br />
 ![Placeholder links](assets/screenshots/placeholder-link)
-You are required to submit BOTH of the following for review:
+<br />
+
 
 ### Resources used
 
 Google Images
+<br />
 [Wallpaper Acess](https://wallpaperaccess.com/)
+<br />
 [w3schools](https://www.w3schools.com/default.asp)
+<br />
