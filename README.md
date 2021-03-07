@@ -8,11 +8,11 @@ Because I don't have many projects to showcase at the moment, most of the links 
 ## Screeshots
 
 
-![Hover function](./assets/screenshots/hover-1.jpg)
+![Hover function](assets/screenshots/hover-1.jpg)
 <br />
-![Hover function 2](./assets/screenshots/hover-2.jpg)
+![Hover function 2](assets/screenshots/hover-2.jpg)
 <br />
-![Placeholder links](./assets/screenshots/placeholder-link.jpg)
+![Placeholder links](assets/screenshots/placeholder-link.jpg)
 <br />
 
 
